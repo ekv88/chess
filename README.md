@@ -2,8 +2,6 @@
 
 🚀 Welcome to my first Vue 3 app project! This project was created as a job test for chess.com, and I'm excited to share it with you.
 
-## Project Setup
-
 ## Project setup
 ```
 npm install
